@@ -30,4 +30,6 @@ This project is an Amazon-like website prototype built using HTML, CSS, and Font
 ## Contribution
 Contributions are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
 
-<img src="C:\Users\91981\OneDrive\Pictures\Saved Pictures\hero_image.jpg">
+<div id="ss">
+<img src="C:\Users\91981\OneDrive\Pictures\Saved Pictures\hero_image.jpg" width="190"/>
+</div>
