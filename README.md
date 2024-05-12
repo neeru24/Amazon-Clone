@@ -30,3 +30,6 @@ This project is an Amazon-like website prototype built using HTML, CSS, and Font
 ## Contribution
 Contributions are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
 
+### Output
+![output](1. Amazon-Clone.png)
+
