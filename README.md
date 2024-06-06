@@ -1,7 +1,7 @@
 # Amazon-like Website
 This project is an Amazon-like website prototype built using HTML, CSS, and FontAwesome icons. It mimics some of the basic layout of the Amazon website.
 
-## Technologies Used
+### Technologies Used
 • HTML: Provides the structure of the web page. <br>
 • CSS: Styles the elements and adds visual effects. <br>
 • FontAwesome: Provides icons used for navigation and decoration. <br>
